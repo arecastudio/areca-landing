@@ -1,0 +1,6 @@
+# Robots.txt untuk areca.my.id
+User-agent: *
+Allow: /
+
+# Daftarkan Sitemap Anda (Opsional tapi sangat disarankan)
+Sitemap: https://areca.my.id/sitemap.xml
